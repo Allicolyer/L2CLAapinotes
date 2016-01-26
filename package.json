@@ -1,0 +1,16 @@
+{
+  "name": "mygithubapi",
+  "version": "1.0.0",
+  "description": "node",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "doc": "facy thign to make docs",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "me",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.67.0"
+  }
+}
